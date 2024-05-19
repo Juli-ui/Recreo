@@ -41,7 +41,7 @@ nav ul li a {
     background-image: url('recreo.jpg');
     background-size: cover;
     background-position: center;
-    color: #ff6f61;
+    color: red;
     text-align: center;
     padding: 100px 20px;
 }
